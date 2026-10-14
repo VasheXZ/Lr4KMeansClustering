@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lr4KMeansClustering", "Lr4KMeansClustering\Lr4KMeansClustering.csproj", "{FEA7219B-92C6-49A5-9A6E-536F750C8774}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lr6KMeansClustering", "Lr6KMeansClustering\Lr6KMeansClustering.csproj", "{FEA7219B-92C6-49A5-9A6E-536F750C8774}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
