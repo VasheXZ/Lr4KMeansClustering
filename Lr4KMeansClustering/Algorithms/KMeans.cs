@@ -1,6 +1,6 @@
-using Lr4KMeansClustering.Models;
+using Lr6KMeansClustering.Models;
 
-namespace Lr4KMeansClustering.Algorithms;
+namespace Lr6KMeansClustering.Algorithms;
 
 // Классический K-means с квадратом евклидова расстояния
 public static class KMeans

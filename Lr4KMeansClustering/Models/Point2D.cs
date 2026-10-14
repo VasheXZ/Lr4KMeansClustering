@@ -1,4 +1,4 @@
-namespace Lr4KMeansClustering.Models;
+namespace Lr6KMeansClustering.Models;
 
 // Точка двумерного пространства признаков
 public readonly struct Point2D : IEquatable<Point2D>

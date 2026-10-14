@@ -1,4 +1,4 @@
-namespace Lr4KMeansClustering;
+namespace Lr6KMeansClustering;
 
 internal static class Program
 {

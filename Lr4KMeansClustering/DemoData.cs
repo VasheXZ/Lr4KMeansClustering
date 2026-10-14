@@ -1,6 +1,6 @@
-using Lr4KMeansClustering.Models;
+using Lr6KMeansClustering.Models;
 
-namespace Lr4KMeansClustering;
+namespace Lr6KMeansClustering;
 
 // Демонстрационная неразмеченная выборка для трёх кластеров
 internal static class DemoData

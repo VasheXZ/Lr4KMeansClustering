@@ -1,4 +1,4 @@
-namespace Lr4KMeansClustering.Models;
+namespace Lr6KMeansClustering.Models;
 
 public enum InitializationMethod
 {

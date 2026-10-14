@@ -1,7 +1,7 @@
 using System.Text;
-using Lr4KMeansClustering.Models;
+using Lr6KMeansClustering.Models;
 
-namespace Lr4KMeansClustering.Controls;
+namespace Lr6KMeansClustering.Controls;
 
 // Просмотр исходных центров и подробностей выбранной итерации
 public sealed class IterationHistoryControl : UserControl

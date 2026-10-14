@@ -1,8 +1,8 @@
 using System.Drawing.Drawing2D;
 using System.ComponentModel;
-using Lr4KMeansClustering.Models;
+using Lr6KMeansClustering.Models;
 
-namespace Lr4KMeansClustering.Controls;
+namespace Lr6KMeansClustering.Controls;
 
 // Интерактивная координатная плоскость и состояние выбранной итерации
 public sealed class CoordinatePlane : Control

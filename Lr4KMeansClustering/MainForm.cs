@@ -1,8 +1,8 @@
-using Lr4KMeansClustering.Algorithms;
-using Lr4KMeansClustering.Controls;
-using Lr4KMeansClustering.Models;
+using Lr6KMeansClustering.Algorithms;
+using Lr6KMeansClustering.Controls;
+using Lr6KMeansClustering.Models;
 
-namespace Lr4KMeansClustering;
+namespace Lr6KMeansClustering;
 
 // Главное окно интерактивной кластеризации
 public sealed partial class MainForm : Form

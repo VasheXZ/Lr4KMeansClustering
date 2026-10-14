@@ -1,6 +1,6 @@
-using Lr4KMeansClustering.Controls;
+using Lr6KMeansClustering.Controls;
 
-namespace Lr4KMeansClustering;
+namespace Lr6KMeansClustering;
 
 public sealed partial class MainForm
 {

@@ -1,4 +1,4 @@
-namespace Lr4KMeansClustering.Controls;
+namespace Lr6KMeansClustering.Controls;
 
 internal static class ColorPalette
 {
